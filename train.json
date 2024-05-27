@@ -1,0 +1,1382 @@
+[
+    {
+        "Query": "What are some fun activities in Paris?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you suggest some attractions in Tokyo?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What cool spots can I visit in New York City?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "I need suggestions for interesting places in London.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are the must-see locations in Cairo?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What's fun to do in Toronto?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Show me some cool places in Berlin.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some interesting things to do in Sydney?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where should I go when visiting Barcelona?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some exciting places to explore in Dubai?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Give me some travel tips for things to do in Rome.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Find me fun places to visit in San Francisco.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some unique activities in Amsterdam?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you recommend some attractions in Miami?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Tell me about some fun spots in Chicago.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What interesting places should I visit in Los Angeles?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are the top things to do in Bangkok?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can I get some suggestions for places to see in Lisbon?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are fun things to do in Beijing?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "List some cool places to check out in Moscow.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some good places to visit in Istanbul?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where are the fun activities in Seoul?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Suggest some things to see in Milan.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are the best places to explore in Mexico City?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What can I do for fun in Madrid?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are the most interesting spots in Vienna?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you list fun things to do in Budapest?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where can I go for fun in Cape Town?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What should I see when I visit Helsinki?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some exciting things to do in Las Vegas?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Recommend some cool places to see in Rio de Janeiro.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are interesting places to visit in Singapore?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where can I find fun spots in Edinburgh?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Give me some places to visit for fun in Montreal.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What's exciting to do in Athens?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you show me some cool places in Prague?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some fun places to explore in Venice?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Tell me about some exciting spots in Buenos Aires.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where can I go to have fun in Manila?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What fun things are there to do in Johannesburg?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you provide fun locations to visit in Oslo?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "I'm looking for cool places to visit in Mumbai.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Suggest some interesting places to see in Shanghai.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some exciting activities in Brussels?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where are some good spots to visit in Copenhagen?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Tell me about cool places to explore in Jakarta.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Where should I go for fun in Dublin?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Recommend some fun things to see in Zurich.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What cool activities can I do in Warsaw?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some must-visit places in Budapest?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Create a booking for Nottingham Castle",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I want to book a visit to the Louvre Museum in Paris",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you arrange a booking for Alcatraz Island?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a slot at the Vatican Museums for me",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Schedule a tour of the Great Wall of China",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I need to make a reservation for the Empire State Building",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a ticket for Tokyo Skytree",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can I get a booking for a night tour of the Colosseum?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a visit to the British Museum next week",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Arrange a guided tour for Machu Picchu",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I'd like to book an afternoon at the Sydney Opera House",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Set up a visit to Stonehenge for four people",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve two tickets for the Statue of Liberty",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I want to make a booking for the Eiffel Tower summit",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Create a booking for a helicopter tour of the Grand Canyon",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can I book a spot at the Anne Frank House?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Schedule a private tour of the Hermitage Museum",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a visit to the Hollywood Sign hike",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a seat for the sunset cruise in Santorini",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I need to book a visit to Disneyland Paris",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you book a snorkeling trip in the Great Barrier Reef?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Arrange for a safari in Kruger National Park",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a wine tasting tour in Napa Valley",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I'd like to reserve a kayak tour of the Amazon River",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can I get a booking for the Space Needle observation deck?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a visit to the Museum of Modern Art in New York",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Create a booking for a day at Universal Studios Hollywood",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a guided exploration of Petra",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I want to book a night at the Ice Hotel in Sweden",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Set up a slot for bungee jumping in New Zealand",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Arrange a scuba dive in the Coral Triangle",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can I book a tour of the Catacombs in Paris?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Schedule a cooking class in Tuscany",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a tour of the Pyramids of Giza",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a morning at the Van Gogh Museum",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I'd like a booking for a Nile cruise",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you arrange a slot for the Burj Khalifa At The Top?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a day pass for the Sagrada Familia",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Create a booking for the Alhambra Palace tour",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a spot for whale watching in Iceland",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I want to book a helicopter flight over Manhattan",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you get me a ticket for the Tokyo Disneyland?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a tour of the Agra Fort",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a day at the Tsukiji Fish Market for sushi making",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I need to make a booking for a Mount Everest base camp trek",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can I get a spot on a gondola in Venice?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Schedule a guided tour of the Acropolis of Athens",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a bird watching tour in Costa Rica",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Create a booking for a yoga retreat in Bali",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you show me my booking for the Statue of Liberty?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "I need to check my trip details for Paris next month",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What’s the status of my hotel reservation in Tokyo?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show me my upcoming trips",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can you confirm my booked activities in Rome?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Please display my reservation details for the Bali retreat",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What are the details of my flight to Sydney?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "List all my bookings for next week",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Do I have any trips planned for this summer?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Check my schedule for the Grand Canyon tour",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Retrieve my booking details for the London Eye",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Am I booked for the Sahara Desert tour next Friday?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Confirm my booking number for the cruise",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show my reservations for next month",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can I see the itinerary for my trip to Amsterdam?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Get me the details of my honeymoon trip to Maldives",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "How many trips do I have scheduled for the next quarter?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What’s the status of my train booking to Zurich?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can I see all my upcoming bookings?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Please check if I reserved a tour of the Met Museum",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Display my travel plans for this winter",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Is my weekend getaway to Napa Valley confirmed?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show the details of my trip to Cape Town in July",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "I want to see my bookings for all the museum visits",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What are my upcoming events in Las Vegas?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can you pull up my travel itinerary for Greece?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show all my flight details for December",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "List my scheduled tours for this year",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Review my reservation for the jazz festival",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can I check the details of my road trip next week?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Retrieve my travel agenda for next spring",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Am I booked on any flights this weekend?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Check the details of my scuba diving trip in the Caribbean",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Confirm my appointments in Hong Kong",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "I need the confirmation for my skydiving experience in Dubai",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show me the details for my train trip across Europe",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can you find my booking for the cooking class in Italy?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What’s the status of my yoga retreat in India?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Do I have any upcoming tours in Egypt?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Please check my reservations for the music concerts this season",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "List all my upcoming hotel stays",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Check my ski trip bookings for February",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can I get the itinerary for my adventure in New Zealand?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "I need to see my travel schedule for the next six months",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "What trips do I have planned with my family this year?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can you retrieve my booking for the wildlife safari?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show my booked activities for my upcoming birthday trip",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Review my scheduled boat tours",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Please display my travel details for my business trip next quarter",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "I would like to change my travel destination from Nottingham to London",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my booking date for the Eiffel Tower to next Wednesday",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to switch my visit to the Colosseum from April to May",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my travel plans from Tokyo to Kyoto",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can you move my trip to the Great Wall to the first week of June?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I want to change the number of tickets for my Louvre Museum tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Modify my Statue of Liberty tour date to December 25th",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my reservation name for the Sydney Opera House visit",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can we reschedule my Machu Picchu visit to later this year?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to update the guest count for my Stonehenge trip",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Shift my Alcatraz tour from morning to afternoon",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my booking for the Vatican Museums from individual to a group tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can I update my flight details linked with my Sahara Desert tour?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I'd like to reschedule my visit to Niagara Falls for next weekend",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Please change my tour guide for the Yellowstone trip",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can you update my booking to include a visit to the Grand Canyon?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to change the pickup location for my Hollywood tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Switch my hotel booking in Paris to a closer one near the Louvre",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update the time of my booking for the Tokyo Tower",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I want to change the date of my tour to the Pyramids to a later time",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can we modify the meal preference for my booking on the Nile cruise?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change the start time for my tour of the British Museum",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to update my contact details for the reservation at Machu Picchu",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Modify my booking to include an audio guide at the Van Gogh Museum",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Switch the language of my guided tour in Rome to Spanish",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can you change the vehicle type for my safari in Kenya?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my ticket type from standard to VIP for the Universal Studios tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to postpone my visit to the Sistine Chapel",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can I change the viewing time for the Northern Lights tour in Iceland?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my reservation from a single to a double kayak for the Bioluminescent Bay tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Please update my arrival time for the guided tour in Santorini",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Switch my accommodation booking in Amsterdam from hotel to hostel",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my reservation to add an extra night at the Yosemite campsite",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Modify the date of my helicopter tour over Manhattan",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can I change the type of bike rented for my cycling tour in Tuscany?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my itinerary to include the Berlin Wall on my city tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I'd like to add a wine tasting to my Napa Valley trip",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can you change my package tour in Egypt to include a hot air balloon ride?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my museum pass in Paris to cover additional days",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Modify my snorkeling trip in the Great Barrier Reef to include a diving session",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I need to update the number of participants for the Tokyo food tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my reservation at the Dubai Burj Khalifa to a sunset view",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Please reschedule my guided tour in St. Petersburg for the next day",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can I switch my boat tour in Venice to a private gondola?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my booking to a higher category room in the Maldives resort",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Change my scheduled departure time for the Sahara overnight tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Modify my trip plan to include a visit to the Dead Sea",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my excursion to include the Galapagos Islands on my South America tour",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can you change the length of my car rental during my stay in California?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Delete the trip to France",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to cancel my tour to the Eiffel Tower",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my booking for the Statue of Liberty",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my trip to the Great Wall of China",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please delete my reservation for the Colosseum tour",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I want to cancel my visit to the Louvre Museum",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my booking to the Sydney Opera House",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my travel plans to Tokyo",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my guided tour of Machu Picchu",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove the Yellowstone National Park trip from my schedule",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my reservation for the Sahara Desert safari",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete the trip to Niagara Falls that's scheduled for next month",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I want to remove my Alcatraz tour booking",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my visit to Stonehenge",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my booking for the Vatican Museums",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my trip to the Grand Canyon",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please remove my Hollywood tour from the schedule",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my reservation for the Tokyo Skytree visit",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to cancel my tour of Buckingham Palace",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my trip to the Berlin Wall from my itinerary",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my booking for the Pyramids tour in Egypt",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please delete my snorkeling trip in the Great Barrier Reef",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I want to cancel my helicopter tour over Manhattan",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my booking for the Amazon rainforest expedition",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my visit to the Acropolis of Athens",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my Nile cruise booking",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please remove my reservation for the Van Gogh Museum",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to cancel my guided walk through Central Park",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete the booking for my wine tasting tour in Napa Valley",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my tour booking to Yosemite National Park",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my trip to the Dead Sea",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please delete my reservation for the space museum visit",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I want to cancel my gondola ride booking in Venice",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my desert safari trip in Dubai from the schedule",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my sea kayaking tour in the Florida Keys",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my booking for the Mount Everest base camp trek",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please remove my booking for the chocolate making workshop in Belgium",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to cancel my scuba diving trip in the Red Sea",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my booking for the hot air balloon ride in Cappadocia",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my art tour in Florence",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my trip to the Galapagos Islands from my travel plans",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my safari booking in Kenya",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I want to cancel my visit to the Roman Baths in Bath",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my reservation for the tea ceremony in Kyoto",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel my adventure tour in Costa Rica",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please delete my booking for the historical tour in Prague",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to cancel my boat tour on the Seine in Paris",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Remove my ice climbing trip in Patagonia from the system",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my booking for the sunrise watch in Angkor Wat",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete all my bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want to cancel all my travel plans",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Remove all my reservations",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel every booking I have",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Erase all my scheduled trips",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Please delete all my tour bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Clear all my travel bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I need to cancel all my upcoming trips",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Wipe all my reservations from your system",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Purge all my travel plans from the database",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want all my trip bookings deleted immediately",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Can you remove all my bookings now?",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Please cancel all my reservations at once",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I need all my bookings erased by today",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Delete every single one of my travel arrangements",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Get rid of all my bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want to wipe all my scheduled tours",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Clear out all my planned visits and activities",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Remove every travel plan I have in my account",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel all my booked trips for this year",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Erase all my reservations for tours and activities",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Delete all my travel plans and itineraries",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want every one of my trips cancelled",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Purge all travel arrangements from my profile",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Can you clear all bookings under my name?",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Please eliminate all my travel schedules",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I am requesting the removal of all my bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Wipe every reservation from my upcoming travel list",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want all my reservations cancelled today",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Delete all my scheduled activities and reservations",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel all my travel bookings without exception",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Remove all records of my bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I need all my bookings to be cancelled now",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Erase all my upcoming travel plans from the system",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Please delete every booking I have made through your service",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Clear every one of my upcoming tours",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I request the cancellation of all my reservations",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Delete all travel plans linked to my account",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel all my trips and refund the amounts",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Remove all my future bookings immediately",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Purge every travel reservation from my calendar",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want all my booking data erased from your database",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Annul all my planned tours and activities",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Please deactivate all my scheduled trips",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I want to remove all my upcoming trip bookings",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Erase all my travel itineraries right now",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I demand all my bookings be cancelled at once",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Delete all my bookings, no exceptions",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel every reservation in my name",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Nottingham united lost the game yesterday",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the weather like in Miami today?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you play some music from Taylor Swift?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "I need a recipe for a chocolate cake",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Who won the Best Actor Oscar last year?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How do I fix a leaky faucet?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Tell me a joke about cats",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What are the stock prices for Amazon?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you help me with my math homework?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "When is the next World Cup?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How long does it take to drive from New York to California?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What are the symptoms of the common cold?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Is there a good Italian restaurant near me?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What time is it in Tokyo right now?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How many calories are in a banana?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the latest news on Mars exploration?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you download movies for me?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Where is the nearest gas station?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How do I reset my phone password?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What are the best selling books this year?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you send an email to John telling him I'm running late?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How do I meditate?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What are the NBA standings?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can dogs eat chocolate?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "When is the sunset today?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Find the best route to the airport",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How to plant tomatoes?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the exchange rate for euros to dollars?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Where can I buy concert tickets?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you explain the theory of relativity?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Is coffee good for your health?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Why is the sky blue?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Who is the CEO of Microsoft?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What are the upcoming holidays?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "I need driving directions to the nearest hospital",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Where can I watch the latest movies online?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the best way to lose weight?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Tell me the history of the Roman Empire",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you find a plumber for me?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Why do cats purr?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the capital of Brazil?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How many planets are there in the solar system?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "I lost my keys, can you help?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What's the best exercise for building muscle?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "Can you translate this text for me?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What is the population of Canada?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How to cook a steak?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "What is quantum computing?",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "I need advice on managing stress",
+        "Intent": "NOTA"
+    },
+    {
+        "Query": "How to improve my credit score?",
+        "Intent": "NOTA"
+    }
+]

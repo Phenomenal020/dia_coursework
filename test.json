@@ -1,0 +1,210 @@
+[
+    {
+        "Query": "What are some must-visit places in Tokyo?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Recommend some attractions in Sydney for a solo traveler.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "List top 5 tourist spots in Amsterdam.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Suggest some fun activities in Miami this weekend.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Can you book two tickets to the Uffizi Gallery for tomorrow?",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "I'd like to reserve a table for two at the Eiffel Tower restaurant.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Book a family pass for the Universal Studios in Orlando.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Arrange a birthday party reservation at Disneyland Paris.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "What is the status of my hotel booking in New York for next week?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Can you check if my flight to London on July 5th is confirmed?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Show me the details for my car rental in Las Vegas.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Retrieve my reservation for a city tour in Prague.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Change my hotel reservation from single to double room in Dubai.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Update my flight to Japan to first class.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Move my hotel booking in Santorini to next month.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Can we shift the timing for my yacht rental in Monaco?",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Cancel my safari booking in Kenya scheduled for August 15th.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "I need to remove my guided tour in the Sahara Desert from my itinerary.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Delete my booking for a scuba diving session in the Great Barrier Reef.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please cancel my weekend retreat reservation in Bali.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Erase all my scheduled business trips and conference attendances.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel all my reservations for the entire next year.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "I need to clear all my bookings due to a change in my plans.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Remove all travel arrangements from my calendar.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Suggest family-friendly activities in Los Angeles for this summer.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "What are some hidden gems in Berlin that aren't too crowded?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Book a window seat on the next flight to Iceland.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Reserve a spot at the wine tasting event in Napa Valley.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Show my booking for the jazz concert happening this Friday.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Check my reservation status for the Michelin star restaurant visit in Paris.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Change the date of my cooking workshop to the following weekend.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Add an extra night to my hotel stay in Rome.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Please delete all my bookings related to my business trip in Asia.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "Cancel my guided tours in Egypt due to personal reasons.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "What can I do in Vancouver during the winter?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Book me a guided mountaineering expedition in the Rockies.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Can you confirm my participation in the London Marathon?",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Update my seat preferences for the flight to Tokyo.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "I have to cancel my hot air balloon ride over Cappadocia.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Cancel all my scheduled activities in March due to a change in my schedule.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "List the best places to visit in Paris this spring.",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Reserve three tickets for the Broadway show next weekend.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Check if my anniversary dinner reservation is confirmed.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Change my appointment at the spa to an earlier time.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Remove my booking for the photography class due to a scheduling conflict.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Please clear all my bookings from June to July as I won't be available.",
+        "Intent": "delete_all_bookings"
+    },
+    {
+        "Query": "What activities are available in Queenstown for adventure seekers?",
+        "Intent": "get_suggestions"
+    },
+    {
+        "Query": "Book a sunset cruise around Manhattan for my wedding anniversary.",
+        "Intent": "create_booking"
+    },
+    {
+        "Query": "Verify my flight times for my trip to New Zealand.",
+        "Intent": "read_booking"
+    },
+    {
+        "Query": "Modify the reservation time for my dinner at the top of the Marina Bay Sands.",
+        "Intent": "update_booking"
+    },
+    {
+        "Query": "Cancel my weekend getaway package as I have to attend an urgent matter.",
+        "Intent": "delete_a_booking"
+    },
+    {
+        "Query": "Annul all reservations I have from September onwards.",
+        "Intent": "delete_all_bookings"
+    }
+]
