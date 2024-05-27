@@ -1,10 +1,12 @@
 # .gitignore file
 
-/.env
-/my_bert_model
-/Lib
-/Scripts
-/Include
-/__pycache__
-/share
-/etc
+.env
+my_bert_model/
+Lib/
+Scripts/
+Include/
+__pycache__/
+share/
+etc/
+
+instructions.txt
