@@ -1,7 +1,7 @@
 # DIA Coursework Application 
-## How well does a decoder-only agent like GPT-3.5 handle user queries with different levels of proficiency in a conversational chatbot? 
+### How well does a decoder-only agent like GPT-3.5 handle user queries with different levels of proficiency in a conversational chatbot? 
 
-## Does adding an encoder like BERT to the pipeline improve the agent’s performance? 
+### Does adding an encoder like BERT to the pipeline improve the agent’s performance? 
 
 This README provides instructions on how to set up and run the application.
 
